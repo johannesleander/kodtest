@@ -1,19 +1,26 @@
 # Pricerunner kodtest
 
-Välkommen till Pricerunners kodtest! Vi har förberett en liten uppgift som vi vill att du löser
-för att vi ska kunna bedömma dina färdigheter. Uppgiften går ut på att rita ut en produktlistning
-på ett antal produkter som hämtas från våra system enligt en design.
+Välkommen till Pricerunners kodtest! Vi har en liten uppgift som vi vill att du löser för att vi ska kunna bedömma dina färdigheter. Uppgiften går ut på att rita ut en lista av produkter för en specifik kategori enligt en design.
 
+Vi har förberett lite kod för att du ska kunna komma igång snabbare. Som du kanske ser har vi satt upp Webpack för att kompilera och packa ihop koden. Vi har även satt upp en grund för att simulera hämtning av data från ett api.
 
-Vi har som sagt förberett lite kod för att du ska kunna komma igång snabbare. Som du kanske ser har
-vi satt upp Webpack för att kompilera och packa ihop koden. Vi har även satt upp Redux, reducers och
-en action som hämtar en kategori från vårt api. Det finns också en funktion för att hämta produktbilder.
+## Setup
 
-För att starta upp projektet behöver du köra kommandot `npm install` och efter det kan du köra
-`npm start` och surfa till `localhost:4005`. Designen hittar du i mappen `design`.
+Följande mappar innehåller relevant innehåll:
 
-Skapa gärna ett github-repository där du comittar din kod så vi kan följa arbetsflödet, sen skickar
-länken till oss när du känner dig klar.
+- `design` - Design för tre olika enhetsbredder; mobil, tablet, desktop.
+- `app` - Koden för applikationen vi vill du ska bygga.
+
+För att starta upp projektet behöver du göra två saker:
+
+1. Köra kommandot `npm install` från mappen `app`.
+2. Köra kommandot `npm start` från mappen `app` (när installationen är klar).
+
+Efter detta körs en site på URL `localhost:4010`!
+
+## Kör!
+
+Skapa gärna ett github-repository där du comittar din kod så vi kan följa arbetsflödet, skicka sedan länken till oss när du känner dig klar.
 
 Uppskattad arbetstid är cirka 8 timmar. Det är ok att lägga mer tid men redovisa gärna vad du har lagt tiden på.
 
