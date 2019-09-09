@@ -1,6 +1,6 @@
 # Pricerunner kodtest
 
-Välkommen till Pricerunners kodtest! Vi har en liten uppgift som vi vill att du löser för att vi ska kunna bedömma dina färdigheter. Uppgiften går ut på att rita ut en lista av produkter för en specifik kategori enligt egen design.
+Välkommen till Pricerunners kodtest! Vi har en liten uppgift som vi vill att du löser för att vi ska kunna bedömma dina färdigheter. Uppgiften går ut på att rita ut en lista av produkter för en specifik kategori enligt egen design. (https://www.pricerunner.se/cl/1/Mobiltelefoner så här listar vi produkter idag. Du kan hämta inspiration härifrån eller andra ställen)
 
 Vi har förberett lite kod för att du ska kunna komma igång snabbare. Som du kanske ser har vi satt upp Webpack för att kompilera och packa ihop koden. Vi har även satt upp en grund för att simulera hämtning av data från ett api.
 
