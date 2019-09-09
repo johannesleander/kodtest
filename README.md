@@ -25,4 +25,4 @@ Uppskattad arbetstid är cirka 8 timmar. Det är ok att lägga mer tid men redov
 
 #### Lycka till!
 
--- Priceunner frontend team
+-- PriceRunner frontend team
