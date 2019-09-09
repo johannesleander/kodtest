@@ -6,9 +6,8 @@ Vi har förberett lite kod för att du ska kunna komma igång snabbare. Som du k
 
 ## Setup
 
-Följande mappar innehåller relevant innehåll:
+Följande mapp innehåller relevant innehåll:
 
-- `design` - Design för tre olika enhetsbredder; mobil, tablet, desktop.
 - `app` - Koden för applikationen vi vill du ska bygga.
 
 För att starta upp projektet behöver du göra två saker:
