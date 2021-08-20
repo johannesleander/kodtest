@@ -19,7 +19,7 @@ Efter detta körs en site på URL `localhost:4010`!
 
 ## Felsökning
 
-Om du får felmeddelanden som tyder på att något är fel med node-sass när du försöker köra något av kommandon ovan - prova att köra `npm rebuild node-sass`. Testa sedan dett tidigare misslyckade kommandot igen. 
+Om du får felmeddelanden som tyder på att något är fel med node-sass när du försöker köra något av kommandona ovan - prova att köra `npm rebuild node-sass`. Testa sedan att köra det tidigare misslyckade kommandot igen. 
 
 ## Kör!
 
